@@ -1,0 +1,10 @@
+{
+  "caption": "Physical Memory",
+  "desc": "BANK 1 (No ECC)",
+  "capacity": "2048",
+  "purpose": "System Memory",
+  "type": "(0)",
+  "speed": "1333",
+  "slot": "1",
+  "serial": "GEN"
+}

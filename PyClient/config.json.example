@@ -1,0 +1,10 @@
+{
+  "store": "computers",
+  "pool": "component_pool",
+  "system_count": 1,
+  "setup": 1,
+  "simulation": true,
+  "gui": true,
+  "inv_path": "invconfig.json",
+  "tickrate": 0.3
+}

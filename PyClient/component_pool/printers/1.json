@@ -1,0 +1,7 @@
+{
+  "name": "//pharosnew.lib.umbc.edu/LibraryPrinter",
+  "driver": "Gestetner MP C300 PCL 6",
+  "port": "LPT1:",
+  "desc": null,
+  "serial": "A2"
+}

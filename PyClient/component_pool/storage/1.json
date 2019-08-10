@@ -1,0 +1,10 @@
+{
+  "name": "ATA WDC WD2500AAJS-7 SCSI Disk Device",
+  "manufacturer": "(Standard disk drives)",
+  "model": "//./PHYSICALDRIVE0",
+  "desc": "Disk drive",
+  "type": "Fixed hard disk media",
+  "size": "238417",
+  "serial": "GEN",
+  "firmware": "3E02"
+}

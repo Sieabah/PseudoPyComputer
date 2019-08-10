@@ -1,0 +1,10 @@
+{
+  "name": "PLDS DVD+-RW DS-8A5SH SCSI CdRom Device",
+  "manufacturer": "(Standard CD-ROM drives)",
+  "model": "PLDS DVD+-RW DS-8A5SH SCSI CdRom Device",
+  "desc": "CD-ROM Drive",
+  "type": "DVD Writer",
+  "size": "0",
+  "serial": "GEN",
+  "firmware": null
+}

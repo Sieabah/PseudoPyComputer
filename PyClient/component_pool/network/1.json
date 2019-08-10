@@ -1,0 +1,15 @@
+{
+    "desc": "DW1520 Wireless-N WLAN Half-Mini Card",
+    "type": "Other (see MIB)",
+    "speed": "0",
+    "mac": "38:59:F9:4D:9F:7B",
+    "status": false,
+    "uplink": {
+        "timestamp": "1",
+        "ipv4": "0.0.0.0",
+        "ipv6": null,
+        "gateway": "0.0.0.0",
+        "netmask": "0.0.0.0",
+        "dhcp-ip": null
+    }
+}
